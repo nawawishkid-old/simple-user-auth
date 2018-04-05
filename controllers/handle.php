@@ -23,7 +23,7 @@ if ( $method === 'POST' && $_POST['will'] === 'login' ) {
 		redirect();
 	} else {
 		msg( 'error', 'login_invalid', 'Given username or password is invalid.');
-		redirect();
+		redirect( '?login' );
 	}
 
 	exit;
