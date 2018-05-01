@@ -6,10 +6,10 @@ Does not include 'forget password' and 'remember me'.
 Username and password is stored in users.json file.
 
 ## Front page
-![front page](front-page.png "Front page")
+![front page](img/front-page.png "Front page")
 ## Invalid input
-![invalid input](invalid-input.png "Invalid input")
+![invalid input](img/invalid-input.png "Invalid input")
 ## Update profile
-![update profile](update-profile.png "Update profile")
+![update profile](img/update-profile.png "Update profile")
 ## Account deleted
-![delete account](delete-account.png "Delete account")
+![delete account](img/delete-account.png "Delete account")
